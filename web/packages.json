@@ -1,0 +1,12 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$7fe979960552689534e6856d3bea6ee05d461fa6.json": {
+            "sha1": "7fe979960552689534e6856d3bea6ee05d461fa6"
+        }
+    },
+    "metadata-url": "/ChristopherNapoles-01/cusiotm-package-test/p2/%package%.json",
+    "available-packages": [
+        "napsnaps/custom-package"
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "packages": {
+        "napsnaps/custom-package": {
+            "dev-main": {
+                "name": "napsnaps/custom-package",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ChristopherNapoles-01/cusiotm-package-test.git",
+                    "reference": "1d312af50ab89c009f731313e9ff22e97a5ea63e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ChristopherNapoles-01/cusiotm-package-test/zipball/1d312af50ab89c009f731313e9ff22e97a5ea63e",
+                    "reference": "1d312af50ab89c009f731313e9ff22e97a5ea63e",
+                    "shasum": ""
+                },
+                "time": "2023-10-22T15:32:27+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "CustomPackage\\": "src/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ChristopherNapolesOneDoc",
+                        "email": "114975085+ChristopherNapolesOneDoc@users.noreply.github.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/ChristopherNapoles-01/cusiotm-package-test/tree/main",
+                    "issues": "https://github.com/ChristopherNapoles-01/cusiotm-package-test/issues"
+                }
+            }
+        }
+    }
+}
