@@ -1,5 +1,5 @@
 {
-    "name": "cusiotm-package-test",
+    "name": "my-vendor/greetings",
     "homepage": "https://github.com/ChristopherNapoles-01/cusiotm-package-test",
     "repositories": [
         {
