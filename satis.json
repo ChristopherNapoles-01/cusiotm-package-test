@@ -1,0 +1,11 @@
+{
+    "name": "cusiotm-package-test",
+    "homepage": "https://github.com/ChristopherNapoles-01/cusiotm-package-test",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ChristopherNapoles-01/cusiotm-package-test"
+        }
+    ],
+    "require-all": true
+}
