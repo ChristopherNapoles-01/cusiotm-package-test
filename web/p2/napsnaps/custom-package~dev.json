@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/ChristopherNapoles-01/cusiotm-package-test.git",
-                    "reference": "1d312af50ab89c009f731313e9ff22e97a5ea63e"
+                    "reference": "2d79a30dbe40f5f02eca5e4ccdd94b0afd5fda63"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/ChristopherNapoles-01/cusiotm-package-test/zipball/1d312af50ab89c009f731313e9ff22e97a5ea63e",
-                    "reference": "1d312af50ab89c009f731313e9ff22e97a5ea63e",
+                    "url": "https://api.github.com/repos/ChristopherNapoles-01/cusiotm-package-test/zipball/2d79a30dbe40f5f02eca5e4ccdd94b0afd5fda63",
+                    "reference": "2d79a30dbe40f5f02eca5e4ccdd94b0afd5fda63",
                     "shasum": ""
                 },
-                "time": "2023-10-22T15:32:27+00:00",
+                "time": "2023-10-22T16:20:30+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
