@@ -1,0 +1,15 @@
+{
+    "name": "napsnaps/custom-package",
+    "autoload": {
+        "psr-4": {
+            "CustomPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ChristopherNapolesOneDoc",
+            "email": "114975085+ChristopherNapolesOneDoc@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
